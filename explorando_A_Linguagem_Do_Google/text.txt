@@ -158,11 +158,97 @@ Seção 3 - Fundamentos
         3.23 - Operadores Lógicos
              https://www.udemy.com/course/curso-go/learn/lecture/8603194#overview
              
-        3.24 - 
-        3.25 - 
-        3.26 - 
+        3.24 - 24. Operadores Unários
+            https://www.udemy.com/course/curso-go/learn/lecture/8603196#overview
 
+        3.25 - Operador Ternário???
+            https://www.udemy.com/course/curso-go/learn/lecture/8603198#overview
+
+            * não tem ternario em GO
+
+        3.26 - Ponteiros em Go
+             https://www.udemy.com/course/curso-go/learn/lecture/8603200#overview
+
+Seção 4 - Estruturas de Controle
+
+        4.27 - If/Else
+            https://www.udemy.com/course/curso-go/learn/lecture/8603230#overview
+
+        4.28 - If/Else If
+            https://www.udemy.com/course/curso-go/learn/lecture/8603232#overview
+
+        4.29 - If com Init
+            https://www.udemy.com/course/curso-go/learn/lecture/8603234#overview
+
+        4.30 - Laço For
+            https://www.udemy.com/course/curso-go/learn/lecture/8603238#overview
+        
+        4.31 - Switch #01
+             https://www.udemy.com/course/curso-go/learn/lecture/8603242#overview
+
+        4.32 - Switch #02
+            https://www.udemy.com/course/curso-go/learn/lecture/8603244#overview
+
+        4.33 - Resposta do Desafio Switch
+            https://www.udemy.com/course/curso-go/learn/lecture/8603246#overview
+
+        4.34 - Switch #03
+            https://www.udemy.com/course/curso-go/learn/lecture/8603248#overview
+        
+Seção 5 - Array / Slices / Map
+
+        5.35 - Trabalhando com Arrays
+            https://www.udemy.com/course/curso-go/learn/lecture/8603252#overview
+
+        5.36 - Percorrendo Arrays com For (Range)
+            https://www.udemy.com/course/curso-go/learn/lecture/8603254#overview
+        
+        5.37 - Conhecendo o Slice
+            https://www.udemy.com/course/curso-go/learn/lecture/8603258#overview
+
+        5.38 - Construindo Slices com Make
+            https://www.udemy.com/course/curso-go/learn/lecture/8603260#overview
+
+        5.39 - Usando Mesmo Array Interno
+            https://www.udemy.com/course/curso-go/learn/lecture/8632712#overview
+
+        5.40 -  Slice: Usando Append e Copy
+            https://www.udemy.com/course/curso-go/learn/lecture/8603264#overview
+
+        5.41 - Trabalhando com Maps #01
+            https://www.udemy.com/course/curso-go/learn/lecture/8603266#overview
+
+        5.42 - Trabalhando com Maps #02
+            https://www.udemy.com/course/curso-go/learn/lecture/8603270#overview
             
+        5.43 - Maps Aninhados
+            https://www.udemy.com/course/curso-go/learn/lecture/8603274#overview            
+
+Seção 6 - Funções
+
+        6.44 - Funções Básicas
+            https://www.udemy.com/course/curso-go/learn/lecture/8679584#overview 
+
+        6.45 - Pilha de Funções
+            https://www.udemy.com/course/curso-go/learn/lecture/8682661#overview
+
+        6.46 - Retorno Nomeado
+            https://www.udemy.com/course/curso-go/learn/lecture/8682663#overview
+
+        6.47 - Armazenar Funções em Variáveis
+            https://www.udemy.com/course/curso-go/learn/lecture/8682665#overview
+
+        6.48 -
+        6.49 -
+        6.50 -
+        6.51 -
+        6.52 -
+        6.53 -
+        6.54 -
+        6.55 -
+        6.56 -
+
+Seção 7 -
 
 
 
